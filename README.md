@@ -41,12 +41,6 @@ A beginner-friendly data analysis project using Python and Pandas on an anime da
 ```
 4. Run `project1_pandas_.ipynb` from top to bottom. Make sure `anime.csv` is in the same folder.
 
-## Key findings
-
-- Highest scoring anime: [name, score]
-- Most episodes: [name, count]
-- Longest running: [name, months]
-
 ## What I learned
 
 - Cleaning and extracting data from text columns with `apply()`
